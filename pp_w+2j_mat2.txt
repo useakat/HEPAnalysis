@@ -1,0 +1,7 @@
+0
+704
+/ws/yoshitar/w4j/pp_w+2j_mat2/isr_1_pythia_events.root
+/ws/yoshitar/w4j/pp_w+2j_mat2/isr_2_pythia_events.root
+/ws/yoshitar/w4j/pp_w+2j_mat2/isr_3_pythia_events.root
+/ws/yoshitar/w4j/pp_w+2j_mat2/isr_4_pythia_events.root
+/ws/yoshitar/w4j/pp_w+2j_mat2/isr_5_pythia_events.root
